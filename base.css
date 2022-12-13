@@ -4,7 +4,9 @@ html {
     margin: auto;
     line-height: 1.75;
     font-size: 1.25em;
-    white-space: pre-line
+    white-space: pre-line;
+    font-family: sans-serif;
+
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -14,5 +16,4 @@ h1,h2,h3,h4,h5,h6 {
 p,ul,ol {
     margin-bottom: 2em;
     color: #1d1d1d;
-    font-family: sans-serif;
 }
